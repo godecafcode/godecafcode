@@ -1,10 +1,7 @@
 
 ## Web Developer, JavaScript enthusiast, millennial.
 
-- 🔭 I’m currently working on a portfolio website!
-- 🌱 I’m currently learning React 👊🏼
-- 👯 I’m currently looking for a front-end position!
-- 🥅 2020 Goals: Continue working on exciting projects and contribute to Open Source projects!
+- 🔭 Tabs > spaces
 
 ### Connect with me:
 
