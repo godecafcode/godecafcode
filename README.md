@@ -1,5 +1,5 @@
 
-## Web Developer, JavaScript enthusiast, millennial.
+## Web Developer, JavaScript enthusiast.
 
 - 🔭 Tabs > spaces
 
